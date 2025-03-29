@@ -1,109 +1,133 @@
-<footer id="footer" class="footer color-bg">
-	  <div class="links-social inner-top-sm">
-        <div class="container">
-            <div class="row">
-            	<div class="col-xs-12 col-sm-6 col-md-4">
-            		 <!-- ============================================================= CONTACT INFO ============================================================= -->
-<div class="contact-info">
-    <div class="footer-logo">
-        <div class="logo">
-            <a href="index.php">
+<footer class="page-footer">
 
-<h3>Shopping Portal</h3>
-<!-- <li><a href="https://urbanstalls.com/sellerlogin/"><i class="icon fa fa-sign-in"></i>&nbsp Seller Login</a></li> -->
-<li><a href="./admin/"><i class="icon fa fa-sign-in"></i>&nbsp Admin/R&D Team Login</a></li> 
-<!-- <li><a href="https://urbanstalls.com/admin/courier/"><i class="icon fa fa-sign-in"></i>&nbsp Courier Service Login</a></li> 
-<li><a href="https://urbanstalls.com/sellerdetail.php"><i class="icon fa fa-sign-in"></i>&nbsp Feedback Seller</a></li> -->              </a>
-        </div><!-- /.logo -->
+	<div class="footer-nav">
+		<div class="container clearfix">
 
-    </div><!-- /.footer-logo -->
+			<div class="footer-nav__col footer-nav__col--info">
+				<div class="footer-nav__heading">Information</div>
+				<ul class="footer-nav__list">
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">The brand</a>
+					</li>
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">Local stores</a>
+					</li>
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">Customer service</a>
+					</li>
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">Privacy &amp; cookies</a>
+					</li>
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">Site map</a>
+					</li>
+				</ul>
+			</div>
 
-     <div class="module-body m-t-20">
-        <p class="about-us"> Brought To You By <a href="./">shopping portal </a></p>
-        <div class="social-icons">
+			<div class="footer-nav__col footer-nav__col--whybuy">
+				<div class="footer-nav__heading">Why buy from us</div>
+				<ul class="footer-nav__list">
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">Shipping &amp; returns</a>
+					</li>
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">Secure shipping</a>
+					</li>
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">Testimonials</a>
+					</li>
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">Award winning</a>
+					</li>
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">Ethical trading</a>
+					</li>
+				</ul>
+			</div>
 
-        <a href="localhost/shopping/" class='active'><i class="icon fa fa-facebook"></i></a>
-        <a href="###"><i class="icon fa fa-twitter"></i></a>
-        <a href="##"><i class="icon fa fa-linkedin"></i></a>
-        <a href="###"><i class="icon fa fa-rss"></i></a>
-        <a href="##"><i class="icon fa fa-pinterest"></i></a>
+			<div class="footer-nav__col footer-nav__col--account">
+				<div class="footer-nav__heading">Your account</div>
+				<ul class="footer-nav__list">
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">Sign in</a>
+					</li>
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">Register</a>
+					</li>
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">View cart</a>
+					</li>
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">View your lookbook</a>
+					</li>
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">Track an order</a>
+					</li>
+					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">Update information</a>
+					</li>
+				</ul>
+			</div>
 
-        </div><!-- /.social-icons -->
-    </div><!-- /.module-body -->
 
-</div><!-- /.contact-info -->
-<!-- ============================================================= CONTACT INFO : END ============================================================= -->            	</div><!-- /.col -->
+			<div class="footer-nav__col footer-nav__col--contacts">
+				<div class="footer-nav__heading">Contact details</div>
+				<address class="address">
+				Head Office: Avenue Fashion.<br>
+				180-182 Regent Street, London.
+			</address>
+				<div class="phone">
+					Telephone:
+					<a class="phone__number" href="tel:0123456789">0123-456-789</a>
+				</div>
+				<div class="email">
+					Email:
+					<a href="mailto:support@yourwebsite.com" class="email__addr">support@yourwebsite.com</a>
+				</div>
+			</div>
 
-            	<div class="col-xs-12 col-sm-6 col-md-4">
-            		 <!-- ============================================================= CONTACT TIMING============================================================= -->
-<div class="contact-timing">
-	<div class="module-heading">
-		<h4 class="module-title">Delivery Times</h4>
-	</div><!-- /.module-heading -->
+		</div>
+	</div>
 
-	<div class="module-body outer-top-xs">
-		<div class="table-responsive">
-			<table class="table">
-				<tbody>
-					<tr><td>Monday-Friday:</td><td class="pull-right">10:00AM To 06:00PM</td></tr>
-					<tr><td>Saturday:</td><td class="pull-right">11:00AM To 06:00PM</td></tr>
-					<tr><td>Sunday:</td><td class="pull-right">12:00PM To 06:00PM</td></tr>
-				</tbody>
-			</table>
-		</div><!-- /.table-responsive -->
-	</div><!-- /.module-body -->
-</div><!-- /.contact-timing -->
-<!-- ============================================================= CONTACT TIMING : END ============================================================= -->            	</div><!-- /.col -->
+	<!-- <div class="banners">
+		<div class="container clearfix">
 
-            	<div class="col-xs-12 col-sm-6 col-md-4">
-            		 <!-- ============================================================= INFORMATION============================================================= -->
-<div class="contact-information">
-	<div class="module-heading">
-		<h4 class="module-title">information</h4>
-	</div><!-- /.module-heading -->
+			<div class="banner-award">
+				<span>Award winner</span><br> Fashion awards 2016
+			</div>
 
-	<div class="module-body outer-top-xs">
-        <ul class="toggle-footer" style="">
-            <li class="media">
-                <div class="pull-left">
-                     <span class="icon fa-stack fa-lg">
-                      <i class="fa fa-circle fa-stack-2x"></i>
-                      <i class="fa fa-map-marker fa-stack-1x fa-inverse"></i>
-                    </span>
-                </div>
-                <div class="media-body">
-                    <p>INDIA</p>
-                </div>
-            </li>
+			<div class="banner-social">
+				<a href="#" class="banner-social__link">
+				<i class="icon-facebook"></i>
+			</a>
+				<a href="#" class="banner-social__link">
+				<i class="icon-twitter"></i>
+			</a>
+				<a href="#" class="banner-social__link">
+				<i class="icon-instagram"></i>
+			</a>
+				<a href="#" class="banner-social__link">
+				<i class="icon-pinterest-circled"></i>
+			</a>
+			</div>
 
-              <li class="media">
-                <div class="pull-left">
-                     <span class="icon fa-stack fa-lg">
-                      <i class="fa fa-circle fa-stack-2x"></i>
-                      <i class="fa fa-mobile fa-stack-1x fa-inverse"></i>
-                    </span>
-                </div>
-                <div class="media-body">
-                    <p>(011) 000000000000<br>(011) 000000000000</p>
-                </div>
-            </li>
+		</div>
+	</div> -->
 
-              <li class="media">
-                <div class="pull-left">
-                     <span class="icon fa-stack fa-lg">
-                      <i class="fa fa-circle fa-stack-2x"></i>
-                      <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
-                    </span>
-                </div>
-                <div class="media-body">
-                    <span><a href="https://urbanstalls.com/">urbanstalls.com</a></span>
-                </div>
-            </li>
+	<div class="page-footer__subline">
+		<div class="container clearfix">
 
-            </ul>
-    </div><!-- /.module-body -->
-</div><!-- /.contact-timing -->
-<!-- ============================================================= INFORMATION : END ============================================================= -->            	</div><!-- /.col -->
-            </div><!-- /.row -->
-        </div><!-- /.container -->
-    </div><!-- /.links-social -->
+			<div class="copyright">
+				&copy; 2018 Avenue Fashion&trade;
+			</div>
+
+			<div class="developer">
+				Dev by Yasser Dalouzi
+			</div>
+
+			<div class="designby">
+				Design by Yasser Dalouzi
+			</div>
+		</div>
+	</div>
+</footer>
